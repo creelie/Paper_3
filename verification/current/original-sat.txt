@@ -1,0 +1,36 @@
+== Theorem 1.2: extremal admissible systems (SAT)
+c found falsified original clause
+m=0  extremal systems=1  skeleton systems=1  C(m,m//2)=1  equal=True  above 2^m: 0  (0.0s)
+c found falsified original clause
+m=1  extremal systems=1  skeleton systems=1  C(m,m//2)=1  equal=True  above 2^m: 0  (0.0s)
+m=2  extremal systems=2  skeleton systems=2  C(m,m//2)=2  equal=True  above 2^m: 0  (0.0s)
+m=3  extremal systems=3  skeleton systems=3  C(m,m//2)=3  equal=True  above 2^m: 0  (0.0s)
+m=4  extremal systems=6  skeleton systems=6  C(m,m//2)=6  equal=True  above 2^m: 0  (0.0s)
+m=5  extremal systems=10  skeleton systems=10  C(m,m//2)=10  equal=True  above 2^m: 0  (1.4s)
+== Theorem 1.1: Shankar's conjecture (SAT)
+c found falsified original clause
+n=1  paths=2  families of size >= 2^n: 1  sizes=[2]  C_n=1  all F_M: True  (0.0s)
+n=2  paths=6  families of size >= 2^n: 2  sizes=[4]  C_n=2  all F_M: True  (0.0s)
+n=3  paths=20  families of size >= 2^n: 5  sizes=[8]  C_n=5  all F_M: True  (0.0s)
+n=4  paths=70  families of size >= 2^n: 14  sizes=[16]  C_n=14  all F_M: True  (0.0s)
+== Proposition 5.1: groupings (SAT)
+k=0  candidate pairs=0  groupings=1  (no pairs, all canonical pairs): True
+c found falsified original clause
+k=1  candidate pairs=1  groupings=2  (no pairs, all canonical pairs): True
+k=2  candidate pairs=2  groupings=2  (no pairs, all canonical pairs): True
+k=3  candidate pairs=11  groupings=2  (no pairs, all canonical pairs): True
+k=4  candidate pairs=26  groupings=2  (no pairs, all canonical pairs): True
+k=5  candidate pairs=134  groupings=2  (no pairs, all canonical pairs): True
+k=6  candidate pairs=356  groupings=2  (no pairs, all canonical pairs): True
+k=7  candidate pairs=1779  groupings=2  (no pairs, all canonical pairs): True
+== Lemma 4.1: star lemma (brute force)
+k=1  star pairs=1  canonical=1  exceptional=0  as stated: True
+k=2  star pairs=2  canonical=2  exceptional=0  as stated: True
+k=3  star pairs=5  canonical=4  exceptional=1  as stated: True
+k=4  star pairs=8  canonical=8  exceptional=0  as stated: True
+k=5  star pairs=17  canonical=16  exceptional=1  as stated: True
+k=6  star pairs=32  canonical=32  exceptional=0  as stated: True
+k=7  star pairs=65  canonical=64  exceptional=1  as stated: True
+k=8  star pairs=128  canonical=128  exceptional=0  as stated: True
+k=9  star pairs=257  canonical=256  exceptional=1  as stated: True
+ALL OK

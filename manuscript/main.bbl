@@ -1,0 +1,58 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\noopsort}[1]{}
+\providecommand{\mr}[1]{\href{http://www.ams.org/mathscinet-getitem?mr=#1}{MR~#1}}
+\providecommand{\zbl}[1]{\href{http://www.zentralblatt-math.org/zmath/en/search/?q=an:#1}{Zbl~#1}}
+\providecommand{\jfm}[1]{\href{http://www.emis.de/cgi-bin/JFM-item?#1}{JFM~#1}}
+\providecommand{\arxiv}[1]{\href{http://www.arxiv.org/abs/#1}{arXiv~#1}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{Be}
+\bgroup\scshape{}E.~R. Berlekamp\egroup{}, On subsets with intersections of
+  even cardinality,  \emph{Canad. Math. Bull.} \textbf{12} (1969), 471--474.
+  \doi{10.4153/CMB-1969-059-3}.
+
+\bibitem{Preprint}
+\bgroup\scshape{}D.~Bhattacharjee\egroup{}, Even-intersecting families of
+  lattice paths and the {Catalan} numbers, 2026, hexagon:2610.00474v1.
+  Available at \url{https://hexagonmath.org/2610.00474v1}.
+
+\bibitem{Revision}
+\bgroup\scshape{}D.~Bhattacharjee\egroup{}, Even-intersecting families of
+  lattice paths and the {Catalan} numbers: {Annals} submission revision, 2026,
+  Version 1.2.0; manuscript, source and verification files.
+  \doi{10.5281/zenodo.23608134}.
+
+\bibitem{Ar}
+\bgroup\scshape{}D.~Bhattacharjee\egroup{}, Even-intersecting families of
+  lattice paths and the {Catalan} numbers: manuscript and verification files,
+  2026, Preceding version 1.1.0. \doi{10.5281/zenodo.23552911}.
+
+\bibitem{MU}
+\bgroup\scshape{}L.~{de Moura}\egroup{} and
+  \bgroup\scshape{}S.~Ullrich\egroup{}, The {Lean 4} theorem prover and
+  programming language,  in \emph{Automated Deduction---CADE 28}, \emph{Lecture
+  Notes in Computer Science} \textbf{12699}, Springer, 2021, pp.~625--635.
+  \doi{10.1007/978-3-030-79876-5_37}.
+
+\bibitem{Gr}
+\bgroup\scshape{}J.~E. Graver\egroup{}, Boolean designs and self-dual matroids,
+   \emph{Linear Algebra Appl.} \textbf{10} (1975), 111--128.
+  \doi{10.1016/0024-3795(75)90003-8}.
+
+\bibitem{Sh}
+\bgroup\scshape{}U.~Shankar\egroup{}, Oddtown and eventown theorems for lattice
+  paths, 2026, Version 1; Conjecture 4.1. Available at
+  \url{https://arxiv.org/abs/2607.23117}.
+
+\bibitem{St}
+\bgroup\scshape{}R.~P. Stanley\egroup{}, \emph{Catalan Numbers}, Cambridge
+  University Press, 2015. \doi{10.1017/CBO9781139871495}.
+
+\end{thebibliography}

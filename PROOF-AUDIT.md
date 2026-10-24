@@ -1,0 +1,19 @@
+# Mathematical audit
+
+The all-length classification is a written proof, independently reviewed in this revision. The following records its logical dependencies; finite tests are additional checks rather than its proof.
+
+1. The common-edge identity follows because both i-th edges start at level i-1. Agreement means equal preceding north-step counts and equal directions. Removing the last step yields the displayed recursion for B.
+2. In a skeleton every matched pair contributes exactly one north step. Each arc contributes zero modulo two to the common-edge count, since its two ends count together or neither counts. Unmatched points contribute exactly the reduced word's B. This proves admissibility and equality of the norm. Pairwise forced opposite coordinates in the union recover the matching uniquely.
+3. The induction's two prefix systems are admissible: any cross overlap forces both original classes to be single-sided, by the last-step recursion and constancy between classes. The sum-of-squares inequality is (s+t)^2 <= 2s^2+2t^2 for double-sided classes, with an exact equality condition. This reproves the question paper's inequality.
+4. For an extremal system, the two single-sided prefix collections coincide. Components in their overlap graph can be merged while preserving admissibility, because the B-constants propagate along overlaps. The norm bound forces each component to consist of exactly one equal set from each side. This justifies the grouping reduction without assuming the desired classification at the current length.
+5. A grouping's pairs have adjacent weights and satisfy (G1)-(G2), by constancy against every other item. A singleton cannot have either weight of a pair. These are necessary constraints obtained from the preceding system, not an assumed exhaustive list of groupings.
+6. The rigidity lemma uses cell flips at nonnegative lattice coordinates. Testable points give equality of the difference indicators along a diagonal. All levels up to k-4 are testable, while at level k-3 there is one possible excluded y-coordinate. The first nonempty even or odd diagonal level and its propagation give three cases. Equal initial letters force a common prefix and a last-letter canonical pair; a first-step split followed by reunion fails the all-zero test; persistent separation fails for even k and gives exactly the stated exceptional pair for odd k. The small k=1,2,3 cases are checked explicitly in the text.
+7. The exceptional pair is not silently discarded. A different word of its lower weight must lie in a canonical pair. Applying (G2) to that pair against both exceptional items excludes both possible prefix weights, a contradiction. Canonical pairs then propagate through every weight level, leaving exactly the two allowed global groupings.
+8. Induction now appends either a new unmatched point or an arc from the last unmatched point to the new position. The no-unmatched-point-under-an-arc condition makes the new arc noncrossing. The classification follows for all m from the empty-word base case.
+9. A single-class extremal system of length 2n has no unmatched point, so its matching is perfect. The stack bijection with nonnegative +/-1 walks counts all skeletons; reflection and telescoping give binom(m,floor(m/2)). Endpoint zero gives the Catalan count of perfect matchings.
+
+## Scope correction and formal status
+
+The cell lemma now explicitly states v in Z_{≥0}^2 with 0 <= level <= k-2. The proof and all its uses were in this range; specifying it removes an unintended possible reading at negative coordinates. No all-length Lean proof has been added or claimed. The main argument needs no enumeration, SAT solver, native evaluation or unproved conjecture. The finite Lean checks and their exact ranges are reported separately.
+
+No new discovery of the original conjecture resolution is claimed in this revision. The user's preceding preprint, archive and original proof development are credited.

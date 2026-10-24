@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.exe
+*.olean
+*.ilean
+*.aux
+*.log
+*.out
+*.blg
+*.rpi
+*.fls
+*.fdb_latexmk
+manuscript/main.pdf
+*.zip

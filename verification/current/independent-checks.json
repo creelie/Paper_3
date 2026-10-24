@@ -1,0 +1,151 @@
+{
+  "method": "exact geometric edge intersections; no SAT solver or floating point",
+  "star_and_cell": [
+    {
+      "k": 1,
+      "star_pairs": 1,
+      "canonical_pairs": 1,
+      "exceptional_pairs": 0,
+      "cell_checks": 0
+    },
+    {
+      "k": 2,
+      "star_pairs": 2,
+      "canonical_pairs": 2,
+      "exceptional_pairs": 0,
+      "cell_checks": 4
+    },
+    {
+      "k": 3,
+      "star_pairs": 5,
+      "canonical_pairs": 4,
+      "exceptional_pairs": 1,
+      "cell_checks": 24
+    },
+    {
+      "k": 4,
+      "star_pairs": 8,
+      "canonical_pairs": 8,
+      "exceptional_pairs": 0,
+      "cell_checks": 96
+    },
+    {
+      "k": 5,
+      "star_pairs": 17,
+      "canonical_pairs": 16,
+      "exceptional_pairs": 1,
+      "cell_checks": 320
+    },
+    {
+      "k": 6,
+      "star_pairs": 32,
+      "canonical_pairs": 32,
+      "exceptional_pairs": 0,
+      "cell_checks": 960
+    },
+    {
+      "k": 7,
+      "star_pairs": 65,
+      "canonical_pairs": 64,
+      "exceptional_pairs": 1,
+      "cell_checks": 2688
+    },
+    {
+      "k": 8,
+      "star_pairs": 128,
+      "canonical_pairs": 128,
+      "exceptional_pairs": 0,
+      "cell_checks": 7168
+    },
+    {
+      "k": 9,
+      "star_pairs": 257,
+      "canonical_pairs": 256,
+      "exceptional_pairs": 1,
+      "cell_checks": 18432
+    }
+  ],
+  "skeletons": [
+    {
+      "m": 0,
+      "skeletons": 1,
+      "distinct_systems": 1,
+      "identity_pairs": 1
+    },
+    {
+      "m": 1,
+      "skeletons": 1,
+      "distinct_systems": 1,
+      "identity_pairs": 4
+    },
+    {
+      "m": 2,
+      "skeletons": 2,
+      "distinct_systems": 2,
+      "identity_pairs": 20
+    },
+    {
+      "m": 3,
+      "skeletons": 3,
+      "distinct_systems": 3,
+      "identity_pairs": 96
+    },
+    {
+      "m": 4,
+      "skeletons": 6,
+      "distinct_systems": 6,
+      "identity_pairs": 480
+    },
+    {
+      "m": 5,
+      "skeletons": 10,
+      "distinct_systems": 10,
+      "identity_pairs": 2368
+    },
+    {
+      "m": 6,
+      "skeletons": 20,
+      "distinct_systems": 20,
+      "identity_pairs": 11840
+    },
+    {
+      "m": 7,
+      "skeletons": 35,
+      "distinct_systems": 35,
+      "identity_pairs": 58880
+    },
+    {
+      "m": 8,
+      "skeletons": 70,
+      "distinct_systems": 70,
+      "identity_pairs": 294400
+    }
+  ],
+  "path_classification": [
+    {
+      "n": 1,
+      "paths": 2,
+      "extremal_families": 1,
+      "larger_family_exists": false
+    },
+    {
+      "n": 2,
+      "paths": 6,
+      "extremal_families": 2,
+      "larger_family_exists": false
+    },
+    {
+      "n": 3,
+      "paths": 20,
+      "extremal_families": 5,
+      "larger_family_exists": false
+    },
+    {
+      "n": 4,
+      "paths": 70,
+      "extremal_families": 14,
+      "larger_family_exists": false
+    }
+  ],
+  "status": "PASS"
+}

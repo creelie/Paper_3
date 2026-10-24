@@ -1,0 +1,21 @@
+{
+  "pages": 16,
+  "all_pages_visually_inspected": true,
+  "individual_dense_pages_inspected": [
+    1,
+    3,
+    10,
+    12,
+    16
+  ],
+  "vector_figures": 3,
+  "abstract_word_tokens": 140,
+  "bibliography_entries": 8,
+  "all_entries_cited": true,
+  "sole_author": "Deep Bhattacharjee",
+  "author_matches_original_preprint": true,
+  "pdf_md5": "f1ac51288cbd9c1bbb115cf903ab9fa0",
+  "doi": "10.5281/zenodo.23608134",
+  "layout": "PASS",
+  "diagnostics": "No unresolved references or overfull boxes; benign installed cmtiup package-name warning only"
+}

@@ -1,0 +1,7 @@
+'star_lemma' does not depend on any axioms
+'canonical_pairs' does not depend on any axioms
+'skeleton_identity' does not depend on any axioms
+'skeleton_count' does not depend on any axioms
+'shankar_n1' depends on axioms: [propext]
+'shankar_n2' depends on axioms: [propext]
+'shankar_n3' depends on axioms: [propext]

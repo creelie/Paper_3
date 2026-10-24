@@ -1,0 +1,11 @@
+{
+  "input_folder": "20 ShankarLatticePathsCatalan",
+  "archive": "D:\\CLAUDE PAPERS\\annals-paper-2-2026-10-24\\screening-sources\\20 ShankarLatticePathsCatalan\\even-lattice-paths-catalan-tex.zip",
+  "archive_sha256": "379371bb046dc0715cc2b83412ea866ae8cd3c012b9f0753ed3fb66560a6adb7",
+  "manuscript_sha256": "8c00fdc32e7a47a543c48c281fcd6e101c1539655ca345a01e275ae83d1f2a68",
+  "original_repository": "https://github.com/creelie/eConjecturePrimitiveTrinomial",
+  "FNL_source_matches_repository": false,
+  "selected_source": "D:\\CLAUDE PAPERS\\annals-paper-2-2026-10-24\\screening-text\\20 ShankarLatticePathsCatalan\\even-lattice-paths-catalan-tex__even-lattice-paths-catalan__main.tex",
+  "original_commit": "8bed534a2dc27fde8856bb218a28885f64e6fd2a",
+  "manuscript_difference": "Only three figure extensions differ (.png in FNL, extensionless in repository); mathematical text is identical."
+}

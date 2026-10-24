@@ -1,0 +1,11 @@
+{
+  "version": "Lean 4.34.1",
+  "freshly_compiled": true,
+  "finite_theorems": 7,
+  "allowed_axioms": [
+    "propext"
+  ],
+  "native_evaluation_axioms": false,
+  "all_length_theorem_formalized": false,
+  "status": "PASS"
+}
