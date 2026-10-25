@@ -32,8 +32,8 @@
     },
     {
       "path": "build-verification.json",
-      "bytes": 1124,
-      "sha256": "40e1509626a9174f49b5be1551fd5b03c895f4f664b33b23aaba3c7d9c6776e2"
+      "bytes": 1098,
+      "sha256": "8ea2b9ff761e6b92fda042c93d7eba62ac584d4b292ce8d3171171e2953365b7"
     },
     {
       "path": "coverletterjournal.pdf",
@@ -82,8 +82,8 @@
     },
     {
       "path": "submission-metadata.json",
-      "bytes": 5597,
-      "sha256": "87fc1992e7a27ffd68cd8b3210936925f55e01426734b96f759591430efe51b5"
+      "bytes": 5526,
+      "sha256": "f8602899ff22019c88a7daefbaa10f6aa41e79f34c37ea2ecf9a828899258915"
     }
   ]
 }
