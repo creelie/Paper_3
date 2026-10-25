@@ -65,7 +65,10 @@
   "row_or_margin_line_numbers": false,
   "source_changes_for_upload": [],
   "journal_submission_performed": false,
-  "doi_of_new_package": null,
-  "package_release_pending": true,
-  "package_license": "MIT for repository code; manuscript preprint available under CC BY 4.0"
+  "doi_of_new_package": "10.5281/zenodo.23629624",
+  "package_release_pending": false,
+  "package_license": "MIT for repository code; manuscript preprint available under CC BY 4.0",
+  "package_release": "https://github.com/creelie/Paper_3/releases/tag/v1.3.0",
+  "package_release_commit": "374abbfa6a17f79da5980192e376911badd4dd99",
+  "doi_receipt_added_after_publication": true
 }

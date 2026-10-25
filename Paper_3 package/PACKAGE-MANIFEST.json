@@ -1,5 +1,5 @@
 {
-  "status": "reviewed and compiled package; release DOI pending",
+  "status": "published and checksum-verified package; DOI receipt added after publication",
   "paper_number": 3,
   "title": "Even-intersecting families of lattice paths and the Catalan numbers",
   "authors": [
@@ -15,7 +15,7 @@
   "planned_release": "v1.3.0",
   "journal": "Journal of Combinatorial Theory, Series A",
   "prior_manuscript_or_source_doi": "10.5281/zenodo.23608134",
-  "new_package_doi": null,
+  "new_package_doi": "10.5281/zenodo.23629624",
   "row_or_margin_line_numbers": false,
   "journal_submission_performed": false,
   "hexagon_submission_performed": false,
@@ -29,6 +29,11 @@
       "path": "aiprovinance.md",
       "bytes": 2088,
       "sha256": "ad13e2144d16cde27beeb4406d7b841ddf24b59e6fe33644db7d2daf3d7d7dcd"
+    },
+    {
+      "path": "ARCHIVE-DOI.md",
+      "bytes": 1150,
+      "sha256": "d01b2202a7854c3ef9613722f450d082968ec4f6b42dda6605ed5a95441b6ded"
     },
     {
       "path": "build-verification.json",
@@ -57,8 +62,8 @@
     },
     {
       "path": "hexagonsubmissionform.md",
-      "bytes": 4726,
-      "sha256": "432427850e48f5b0ef598a2f93d67dc5d6c7f5f851797136dc26fc78ccd8f590"
+      "bytes": 4937,
+      "sha256": "612fec5d1f080edf2689db22e436b2de29bc5e514fd09dd6f059218a3453062e"
     },
     {
       "path": "journalaideclarationform.pdf",
@@ -72,18 +77,28 @@
     },
     {
       "path": "journalsubmissiondetails.md",
-      "bytes": 4426,
-      "sha256": "d9bd395d48e3e856f4125264a9997cc79bc3a993dc2b3a4591486613103ed410"
+      "bytes": 4637,
+      "sha256": "f21b13f03d6e9ab5c907c6462a5de26103daedb8931d10d4c7c6a52adecf9468"
     },
     {
       "path": "README.md",
-      "bytes": 1334,
-      "sha256": "22c2bd45d5e2fe78e98f6e8d36b2aed36ee9c97092ff1f503043649c961c6bb6"
+      "bytes": 1545,
+      "sha256": "786d8153664c67404fea9ed6beca0d8af1c055bcbbea986f92d7c26f65eb8803"
+    },
+    {
+      "path": "release-verification.json",
+      "bytes": 1444,
+      "sha256": "3b825ca28168febfcd77b4ff1c71d64c68901ca46e2543839036997fe3566738"
     },
     {
       "path": "submission-metadata.json",
-      "bytes": 5526,
-      "sha256": "f8602899ff22019c88a7daefbaa10f6aa41e79f34c37ea2ecf9a828899258915"
+      "bytes": 5746,
+      "sha256": "db9741b6a9180ccfba157281b80d850d8ebfc17d4f6de81dcce4a3915d7bfc79"
     }
+  ],
+  "release_commit": "374abbfa6a17f79da5980192e376911badd4dd99",
+  "post_archive_receipt_files": [
+    "release-verification.json",
+    "ARCHIVE-DOI.md"
   ]
 }
