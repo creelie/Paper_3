@@ -1,0 +1,89 @@
+{
+  "status": "reviewed and compiled package; release DOI pending",
+  "paper_number": 3,
+  "title": "Even-intersecting families of lattice paths and the Catalan numbers",
+  "authors": [
+    {
+      "name": "Deep Bhattacharjee",
+      "orcid": "0000-0003-0466-750X",
+      "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India",
+      "email": "itsdeep@live.com"
+    }
+  ],
+  "repository": "https://github.com/creelie/Paper_3",
+  "github_package_directory": "Paper_3 package",
+  "planned_release": "v1.3.0",
+  "journal": "Journal of Combinatorial Theory, Series A",
+  "prior_manuscript_or_source_doi": "10.5281/zenodo.23608134",
+  "new_package_doi": null,
+  "row_or_margin_line_numbers": false,
+  "journal_submission_performed": false,
+  "hexagon_submission_performed": false,
+  "files": [
+    {
+      "path": "AI_PROVENANCE.md",
+      "bytes": 2088,
+      "sha256": "ad13e2144d16cde27beeb4406d7b841ddf24b59e6fe33644db7d2daf3d7d7dcd"
+    },
+    {
+      "path": "aiprovinance.md",
+      "bytes": 2088,
+      "sha256": "ad13e2144d16cde27beeb4406d7b841ddf24b59e6fe33644db7d2daf3d7d7dcd"
+    },
+    {
+      "path": "build-verification.json",
+      "bytes": 1124,
+      "sha256": "40e1509626a9174f49b5be1551fd5b03c895f4f664b33b23aaba3c7d9c6776e2"
+    },
+    {
+      "path": "coverletterjournal.pdf",
+      "bytes": 83302,
+      "sha256": "65c70e4f12c6cba0876748822fe068c60481087079320cf6e287153e6f431bc8"
+    },
+    {
+      "path": "coverlettertex.zip",
+      "bytes": 1202,
+      "sha256": "5141bcb22ba26d8480afe0db5bc01fa4d50d904d7d650e6a22b6f5584acbc988"
+    },
+    {
+      "path": "Even-intersecting_families_of_lattice_paths_and_the_Catalan_numbers.pdf",
+      "bytes": 500966,
+      "sha256": "0c12ad52625add67d9702ec248ea582ac237d3e370eef2c27b4b7d8096182ec9"
+    },
+    {
+      "path": "Even-intersecting_families_of_lattice_paths_and_the_Catalan_numberstex.zip",
+      "bytes": 106869,
+      "sha256": "11bd4c8e6b5bcb3d7680b7605c2ec5e0a2346ad4ef076d27ba45242f02e8835a"
+    },
+    {
+      "path": "hexagonsubmissionform.md",
+      "bytes": 4726,
+      "sha256": "432427850e48f5b0ef598a2f93d67dc5d6c7f5f851797136dc26fc78ccd8f590"
+    },
+    {
+      "path": "journalaideclarationform.pdf",
+      "bytes": 108577,
+      "sha256": "afc51dcf694dc832d3205948a752d788742939e2d4aaebb41589f4d9a2a03c4f"
+    },
+    {
+      "path": "journalaideclarationform.tex",
+      "bytes": 2146,
+      "sha256": "609bc3f3683ea4e27ea3bb9940cd1af489af22dd0069a5def11fc71a6258f3b6"
+    },
+    {
+      "path": "journalsubmissiondetails.md",
+      "bytes": 4426,
+      "sha256": "d9bd395d48e3e856f4125264a9997cc79bc3a993dc2b3a4591486613103ed410"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1334,
+      "sha256": "22c2bd45d5e2fe78e98f6e8d36b2aed36ee9c97092ff1f503043649c961c6bb6"
+    },
+    {
+      "path": "submission-metadata.json",
+      "bytes": 5597,
+      "sha256": "87fc1992e7a27ffd68cd8b3210936925f55e01426734b96f759591430efe51b5"
+    }
+  ]
+}

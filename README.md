@@ -1,5 +1,10 @@
 # Even-intersecting lattice paths and Catalan numbers
 
+## Current upload package
+
+[Paper_3 package](Paper_3%20package/README.md) contains the reviewed Hexagon/Overleaf source ZIP, the current PDF, AI provenance, complete Hexagon fields and supporting files for **Journal of Combinatorial Theory, Series A**. The package records the current proof/check scope and has no margin line numbers. No journal submission or acceptance is claimed. Version: 1.3.0.
+
+
 **Sole author: Deep Bhattacharjee.** Submission revision 1.2.0, 24 October 2026.
 
 Every family of 2^n North-East lattice paths from (0,0) to (n,n) with pairwise even numbers of common edges comes from a unique noncrossing perfect matching of the step positions. The two letters at each matched pair are opposite. There are exactly C_n such extremal families. The manuscript proves the stronger classification of equality in the underlying binary-word inequality for every length m, with exactly binom(m,floor(m/2)) extremal systems.

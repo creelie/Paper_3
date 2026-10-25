@@ -1,0 +1,38 @@
+{
+  "title": "Even-intersecting families of lattice paths and the Catalan numbers — submission package",
+  "upload_type": "software",
+  "version": "1.3.0",
+  "publication_date": "2026-10-25",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "orcid": "0000-0003-0466-750X",
+      "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India"
+    }
+  ],
+  "description": "<p>Even-intersecting families of lattice paths and the Catalan numbers. Hexagon/Overleaf and Journal of Combinatorial Theory, Series A submission preparation, version 1.3.0. The reviewed folder Paper_3 package contains the article PDF, a minimal compilable TeX ZIP, AI provenance, Hexagon fields, journal details, an unsent cover letter with editable source, and an author-prepared AI disclosure. All PDFs have no row or margin line numbers. No journal submission or acceptance is claimed.</p><p>The paper proves the Catalan classification of maximum even-intersecting North-East lattice-path families. Its complete written induction classifies all equality cases of the underlying weighted binary-word inequality by noncrossing partial matchings, and excludes the exceptional pair in every admissible grouping.</p><p>Verification scope: The Lean checks cover stated finite ranges, including path-family classification for n at most 3. The all-length classification is justified by the written induction and is not claimed to be fully formalised in Lean.</p><p>Original preprint: https://hexagonmath.org/2610.00474v1. Earlier manuscript/source DOI: 10.5281/zenodo.23608134. Original attribution and component licences are preserved. Human-understanding and mixed-text declarations record the submitting author's explicit statement on 25 October 2026. The standalone AI declaration is author-prepared, not an official signed publisher form.</p>",
+  "license": "MIT",
+  "keywords": [
+    "lattice paths",
+    "Catalan numbers",
+    "even intersections",
+    "Eventown theorem",
+    "noncrossing matchings",
+    "05A15",
+    "05D05",
+    "05A05"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://hexagonmath.org/2610.00474v1",
+      "scheme": "url",
+      "relation": "isSupplementTo"
+    },
+    {
+      "identifier": "10.5281/zenodo.23608134",
+      "scheme": "doi",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "notes": "Component licence notices in the original repository remain authoritative. The article is already available under the existing Hexagon CC BY 4.0 record. New package DOI is assigned by Zenodo after the GitHub release; no earlier DOI is reused as the new release DOI."
+}
